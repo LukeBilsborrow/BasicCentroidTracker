@@ -60,5 +60,5 @@ if __name__ == "__main__":
         image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
         draw_bbox(image, bb)
 
-        cv2.imwrite(f"./output/{str(idx - start_img_id).zfill(4)}.png", image)
+        cv2.imwrite(f"{OUTPUT_FOLDER}/{str(idx - start_img_id).zfill(4)}.png", image)
         print(f"Processed image {idx - start_img_id}/{max_img_id - start_img_id}")
