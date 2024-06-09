@@ -65,3 +65,11 @@ for frame in bbox_data:
 ## Example Notebook
 
 To see the Centroid Tracker in action, you can open the example.ipynb notebook on [Google Colab](https://colab.research.google.com/). This notebook demonstrates how to use the Centroid Tracker to track objects in a video, specifically Jim Carrey's face. You can modify the notebook to track different objects or use your own video files.
+
+## License
+
+This project is licensed under the [Unlicense](LICENSE), which means it is released into the public domain and can be used for any purpose without restrictions.
+
+## Contact
+
+For inquiries or further information, please contact [Luke](mailto:lukebilsborrow@gmail.com).
