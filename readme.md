@@ -9,6 +9,7 @@ The approach is fairly naive and may begin to track the wrong object if they are
 - [Installation](#installation)
 - [Usage](#usage)
 - [Example Notebook](#example-notebook)
+- [License](#license)
 
 ## Overview
 
@@ -20,7 +21,7 @@ To get started with the Centroid Tracker, clone the repository and install the n
 
 ```sh
 git clone https://github.com/LukeBilsborrow/BasicCentroidTracker.git
-cd centroid-tracker
+cd BasicCentroidTracker
 pip install -r requirements.txt
 ```
 
